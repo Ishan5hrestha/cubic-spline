@@ -49,3 +49,4 @@ Day 18: 0.8	0.9	0.9	0.9	0.9	1.1	1.1	1.5	4	1.5	1.4	1.5	1.4	1.5	1.45	1.4	1.4	1.4	1
 Day 19: 0.9	0.9	0.9	0.9	1	1.1	1.3	1.4	1.5	1.4	1.4	1.4	1.3	1.5	1.4	1.4	1.4	1.4	1.4	1.4	1.4	1.6	1.9	2	2	1.8	1.4	1	0.9
 
 ```
+The interpolator of the project [Electricity-Demand-Prediction](https://github.com/Ishan5hrestha/Electricity-Demand-Prediction) has few extra features added, namely if there is no previous or next row, the row which is available is copied in alternating in manner.
